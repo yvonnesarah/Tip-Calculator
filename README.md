@@ -6,6 +6,11 @@ The Tip Calculator Web App is a simple and intuitive application designed to hel
 ## Prerequisites
 N/A
 
+## Features
+* Input fields for bill amount and desired tip percentage.
+* Calculate the tip amount and total bill including tip.
+* Responsive design for mobile and desktop devices.
+
 ## Technologies Used
 Built with:
 * HTML
@@ -16,7 +21,10 @@ Built with:
 N/A
 
 ## Usage
-N/A
+* Open the Tip Calculator web application in your browser.
+* Enter the total bill amount in the input field.
+* Enter the desired tip percentage in the input field
+* Click the "Calculate" button to display the calculated tip amount and the total bill including the tip.
 
 ## Project Link
 Application can can be viewed here: 
